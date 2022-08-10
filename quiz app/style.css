@@ -1,0 +1,38 @@
+.quizcontainer{
+    border: 1px solid black;
+    width: 40%;
+    padding: 30px 10px 30px 80px;
+    background-color: black;
+    margin: 13% 5% 10% 25%;
+}
+h2{
+    background-image: linear-gradient(aqua,pink);
+    width: 80%;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    border: 1px solid black;
+    border-radius: 5%;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+li{
+    list-style-type: none;
+    padding: 10px;
+    color: white;
+    width: 80%;
+    font-size: 18px;
+    border-bottom: 1px solid grey;
+}
+.submit{
+    padding: 10px 30px;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 30%;
+    background-image: linear-gradient(aqua,pink);
+}
+body{
+    background-color: grey;
+}
